@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sara Guebara
+====================================================================================================================================
+
+Data Scientist
+--------------
+
+*   🌍  I'm based in Quebec, Canada
+*   ✉️  You can contact me at [sarabguebara@gmail.com](mailto:sarabguebara@gmail.com)
+*   🧠  I'm learning Generative AI
+*   ⚡  I love music and I play acoustic guitar
